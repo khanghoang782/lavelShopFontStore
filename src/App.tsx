@@ -1,15 +1,10 @@
 import './App.css'
-import { Button } from "@/components/ui/button"
+
 
 function App() {
-
-  return (
-    <>
-      <div>
-        <Button>Click here</Button>
-      </div>
-    </>
-  )
+    return(
+        <h1>Nothing here</h1>
+    )
 }
 
 export default App
